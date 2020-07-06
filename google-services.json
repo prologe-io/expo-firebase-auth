@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "104778066778",
+    "firebase_url": "https://expo-firebase-auth-718eb.firebaseio.com",
+    "project_id": "expo-firebase-auth-718eb",
+    "storage_bucket": "expo-firebase-auth-718eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104778066778:android:cb528d8d53fa2f6e046163",
+        "android_client_info": {
+          "package_name": "io.prologe.expo.firebase.auth.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104778066778-7phd7jhvt3ofhs6rrq8q6mevp59msivh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.prologe.expo.firebase.auth.example",
+            "certificate_hash": "41b9b4b07259b2d14e89d6ccb24308c57c219981"
+          }
+        },
+        {
+          "client_id": "104778066778-2vm079rmntdq9d0mt85odv1vdd0567jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB79pftjUQ_pbLfYM7tTJt7JA4vZJFqYVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104778066778-2vm079rmntdq9d0mt85odv1vdd0567jq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104778066778-hhh9jnagvl369p93vt41fca6rdflaa8d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.prologe.expo-firebase-auth-example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

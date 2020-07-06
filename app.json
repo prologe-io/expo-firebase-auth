@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "expo-firebase-auth",
+    "slug": "expo-firebase-auth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "io.prologe.expo-firebase-auth-example",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.104778066778-hhh9jnagvl369p93vt41fca6rdflaa8d"
+        }
+      }
+    },
+    "android": {
+      "package": "io.prologe.expo.firebase.auth.example",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
